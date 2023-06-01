@@ -7,4 +7,6 @@ Flask
 seaborn
 IPython
 pickle-mixin
+catboost
+xgboost
 dill 
